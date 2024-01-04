@@ -1,6 +1,6 @@
 # Automatic-translator-evaluator
 
-In the DATA folder you have two subfolders, one origin and the other trad, in the origin you put a text file which contains the text translated by a human into the desired language, and in the trad folder you put all the text translated by automatic translators.
+In the DATA folder you have two subfolders, one origin and the other trad, in the origin you put a text file which contains a text translated by a human into the desired language and in the name of the file you must put < *ref.txt>, and in the trad folder you put all the text translated by automatic translators.
 
 ## once this is done
 
