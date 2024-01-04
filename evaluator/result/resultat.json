@@ -1,0 +1,26 @@
+{
+  "Des_mots-ref -- Des_mots-google": {
+    "jaccard": [
+      0.564625850340136
+    ],
+    "cosine": [
+      0.19461560386576693
+    ]
+  },
+  "Des_mots-ref -- Des_mots-reverso": {
+    "jaccard": [
+      0.6538461538461539
+    ],
+    "cosine": [
+      0.22439713687635965
+    ]
+  },
+  "Des_mots-ref -- Des_mots-systran_translate": {
+    "jaccard": [
+      0.6774193548387096
+    ],
+    "cosine": [
+      0.19328690545244231
+    ]
+  }
+}
